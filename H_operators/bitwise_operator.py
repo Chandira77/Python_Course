@@ -1,0 +1,6 @@
+print(7 & 4)
+print(5 | 4)
+print(6 ^ 5)
+print(~1)
+print(5 >> 6)
+print(5 << 6)

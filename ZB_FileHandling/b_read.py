@@ -10,7 +10,7 @@ f = open("test.txt", "r")
 # print(f.readline())
 
 #using loop you can return whole para line by line
-f = open("test.txt", "r")
+f = open("file.txt", "r")
 for x in f:
   print(x)
 
